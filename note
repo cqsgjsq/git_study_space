@@ -1,0 +1,7 @@
+git reset HEAD
+git rm --cached <file>
+git checkout .
+git checkout -- <file>
+git checkout HEAD .
+git checkout HEAD <file>
+
