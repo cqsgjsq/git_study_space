@@ -6,3 +6,4 @@ git checkout HEAD .
 git checkout HEAD <file>
 
 this edit in test branch
+fix-b
